@@ -396,11 +396,11 @@
     <Content Include="Content\frontend\assets\plugins\scrollMonitor\MIT-LICENSE.txt" />
     <Content Include="Content\frontend\assets\plugins\scrollMonitor\scrollMonitor.js" />
     <Content Include="Content\Images\home-bg.jpg" />
-    <Content Include="Content\Images\logo-ky.jpg" />
-    <Content Include="Content\Images\logo-mo.jpg" />
-    <Content Include="Content\Images\logo-ok.jpg" />
-    <Content Include="Content\Images\logo-tn.jpg" />
-    <Content Include="Content\Images\logo-tx.jpg" />
+    <Content Include="Content\Images\logo-ky.png" />
+    <Content Include="Content\Images\logo-mo.png" />
+    <Content Include="Content\Images\logo-ok.png" />
+    <Content Include="Content\Images\logo-tn.png" />
+    <Content Include="Content\Images\logo-tx.png" />
     <Content Include="Content\jssor\js\jquery-1.9.1.min.js" />
     <Content Include="Content\jssor\js\jssor.slider.min.js" />
     <Content Include="Content\jssor\skin\arrow-051.html" />
